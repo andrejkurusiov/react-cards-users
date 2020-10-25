@@ -2,6 +2,8 @@
 
 Live demo at Netlify: [https://andrejk-react-cards-users.netlify.app/](https://andrejk-react-cards-users.netlify.app/)
 
+Done according to [this assignment](./React%20Assignment.pdf).
+
 ---
 
 # Getting Started with Create React App
